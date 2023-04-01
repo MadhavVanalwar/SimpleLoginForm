@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SimpleLoginForm/static/css/main.7f2d52fc.css",
+    "main.js": "/SimpleLoginForm/static/js/main.7cef18f3.js",
+    "index.html": "/SimpleLoginForm/index.html",
+    "main.7f2d52fc.css.map": "/SimpleLoginForm/static/css/main.7f2d52fc.css.map",
+    "main.7cef18f3.js.map": "/SimpleLoginForm/static/js/main.7cef18f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f2d52fc.css",
+    "static/js/main.7cef18f3.js"
+  ]
+}
